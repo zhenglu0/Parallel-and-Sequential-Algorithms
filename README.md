@@ -1,3 +1,3 @@
-## Parallel-and-Sequential-Algorithms
+## Parallel and Sequential Algorithms
 
-Some example of Parallel-and-Sequential-Algorithms in classes and on the book
+Examples of parallel and sequential algorithms in class or in the book
